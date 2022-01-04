@@ -1,4 +1,4 @@
-# Instance Segmentation Custom Vision Model with AutoML for Images
+# Instance Segmentation Custom Vision Model with AutoML for Images (Azure ML)
 
 This repo contains some Python Notebooks that uses AutoML for Images for building and training Instance Segmentation models with Azure ML.
 

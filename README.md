@@ -2,6 +2,27 @@
 
 This repo contains some Python Notebooks that uses AutoML for Images for build and train Instance Segmentation models.
 
+AutoML for Images documentation:
+
+What is AutoML for Images
+https://docs.microsoft.com/en-us/azure/machine-learning/concept-automated-ml#computer-vision-preview
+
+Setup
+https://docs.microsoft.com/en-us/azure/machine-learning/how-to-auto-train-image-models
+
+Algo
+https://docs.microsoft.com/en-us/azure/machine-learning/how-to-auto-train-image-models#supported-model-algorithms
+
+Tuto
+https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-auto-train-image-models
+
+ONNX
+https://docs.microsoft.com/en-us/azure/machine-learning/how-to-inference-onnx-automl-image-models?tabs=multi-class
+
+Doc :
+https://docs.microsoft.com/en-us/azure/machine-learning/how-to-use-automl-small-object-detect
+https://docs.microsoft.com/en-us/azure/machine-learning/how-to-auto-train-image-models![image](https://user-images.githubusercontent.com/15341671/148044151-54e7a3c9-0bb1-44bf-b62b-f6c4c07d14e9.png)
+
 AutoML is an Azure Machine Learning feature, that empowers both professional and citizen data scientists to build machine learning models rapidly. Since its launch, AutoML has helped accelerate model building for essential machine learning tasks like Classification, Regression and Time-series Forecasting.
 
 With the preview of AutoML for Images, there will be added support for Vision tasks. Data scientists will be able to easily generate models trained on image data for scenarios like Image Classification (multi-class, multi-label), Object Detection and Instance Segmentation.

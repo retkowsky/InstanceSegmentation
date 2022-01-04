@@ -19,9 +19,9 @@ Additional links:
 - Doc: https://docs.microsoft.com/en-us/azure/machine-learning/how-to-use-automl-small-object-detect
 - https://docs.microsoft.com/en-us/azure/machine-learning/how-to-auto-train-image-models![image](https://user-images.githubusercontent.com/15341671/148044151-54e7a3c9-0bb1-44bf-b62b-f6c4c07d14e9.png)
 
+Note: All these Python notebooks were made for demo purposes. They were not designed for production usage. This feature is currently in public preview. This preview version is provided without a service-level agreement. Certain features might not be supported or might have constrained capabilities. For more information, see Supplemental Terms of Use for Microsoft Azure Previews. https://azure.microsoft.com/en-us/support/legal/preview-supplemental-terms/
+
 <br>
 04-Jan-2022
 
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
-
-Note: All these Python notebooks were made for demo purposes. They were not designed for production usage. This feature is currently in public preview. This preview version is provided without a service-level agreement. Certain features might not be supported or might have constrained capabilities. For more information, see Supplemental Terms of Use for Microsoft Azure Previews. https://azure.microsoft.com/en-us/support/legal/preview-supplemental-terms/

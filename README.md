@@ -7,7 +7,7 @@ AutoML is an Azure Machine Learning feature, that empowers both professional and
 
 With the preview of AutoML for Images, there will be added support for Vision tasks. Data scientists will be able to easily generate models trained on image data for scenarios like Image Classification (multi-class, multi-label), Object Detection and Instance Segmentation.
 
-AutoML for Images is currently in Public Preview.<br>
+AutoML for Images is currently in Public Preview.<br><br>
 Documentation: https://docs.microsoft.com/en-us/azure/machine-learning/how-to-auto-train-image-models
 
 Additional links:

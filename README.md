@@ -4,6 +4,7 @@ This repo contains some Python Notebooks that uses AutoML for Images for buildin
 
 <img src="https://github.com/retkowsky/InstanceSegmentation/blob/main/captures/AutoML%20for%20Images.png?raw=true">
 <br>
+Instance Segmentation demo using AutoML for Images:
 <img src="https://raw.githubusercontent.com/retkowsky/InstanceSegmentation/main/captures/example.jpg?">
 
 AutoML is an Azure Machine Learning feature, that empowers both professional and citizen data scientists to build machine learning models rapidly. Since its launch, AutoML has helped accelerate model building for essential machine learning tasks like Classification, Regression and Time-series Forecasting.

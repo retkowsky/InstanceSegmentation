@@ -6,3 +6,8 @@
 4. This command will detect defects based on your AutoML for Images Instance segmentation computer vision you made using a local inference (ONNX).
 
 <img src = "https://github.com/retkowsky/InstanceSegmentation/blob/main/captures/image.png?raw=true">
+
+ONNX: https://docs.microsoft.com/en-us/azure/machine-learning/how-to-inference-onnx-automl-image-models?tabs=multi-class
+
+07-Jan-2022
+Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/

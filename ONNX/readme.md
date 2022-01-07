@@ -1,4 +1,4 @@
-# Local Inference with ONNX
+Local Inference with ONNX
 
 1. Download the ONNX file from your Azure ML session
 2. Downlaod the labels.json file from your Azure ML session

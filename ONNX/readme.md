@@ -4,3 +4,5 @@
 2. Download the labels.json file from your Azure ML session
 3. Run this command from your CLI :  python ONNX_inference.py model.onnx labels.json test1.png 0.7
 4. This command will detect defects based on your AutoML for Images Instance segmentation computer vision you made using a local inference (ONNX).
+
+<img src = "https://github.com/retkowsky/InstanceSegmentation/blob/main/captures/image.png?raw=true">

@@ -9,5 +9,5 @@
 
 ONNX: https://docs.microsoft.com/en-us/azure/machine-learning/how-to-inference-onnx-automl-image-models?tabs=multi-class
 
-07-Jan-2022
+07-Jan-2022<br>
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
